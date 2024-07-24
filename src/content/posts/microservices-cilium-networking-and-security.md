@@ -3,7 +3,7 @@ title: "Microservices: using Cilium for Networking and Security"
 description: "meta description"
 date: 2024-07-24T05:00:00Z
 image: "/images/posts/01.jpg"
-categories: ["kubernetes", "os"]
+categories: ["microservices"]
 authors: ["Balaji Balasundaram"]
 tags: ["microservices", "cilium", "networking", "security", "kubernetes", "k8s",  "k3s", ]
 draft: false

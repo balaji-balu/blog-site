@@ -1,4 +1,5 @@
 ## README
+- my blogs
 - astro website 
 
 #### Todo
@@ -8,7 +9,7 @@
 - change the landing imsages of the article
 - change the logo
 - change the social media links in the footer, author, articles
-- change tbe About page
+- change the About page
 - add photo to authors
 - write a script using buffer.com to post to twitter, linkedin, facebook, whatsapp, instagram
 
