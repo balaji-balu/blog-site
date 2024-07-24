@@ -23,7 +23,7 @@
   },
 
   "params": {
-    "contact_form_action": "#",
+    "contact_form_action": "/success",
     "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
   },
 
