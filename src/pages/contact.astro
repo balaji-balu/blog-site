@@ -21,7 +21,7 @@ const { title, description, meta_title, image } = entry.data;
     <div class="container">
       <h1 set:html={markdownify(title)} class="h2 page-heading" />
       <div class="row md:gx-5 gy-5">
-        <div class="sm:col-5 md:col-4">
+        <div class="sm:col-5 md:col-5">
           <p class="mb-8 text-2xl font-bold text-theme-dark">Contact Info</p>
           <ul class="flex flex-col space-y-8">
             <li>
@@ -47,8 +47,11 @@ const { title, description, meta_title, image } = entry.data;
             </li>
           </ul>
         </div>
-        <div class="sm:col-7 md:col-8">
-          <form class="contact-form row gy-2 justify-center" method="POST" netlify action={contact_form_action}>
+        <div class="sm:col-7 md:col-7">
+          <form class="contact-form row gy-2 justify-center" method="POST" 
+              data-netlify-heneypot="bot-field"
+              netlify action={contact_form_action}>
+              <input class="hidden" name="bot-field">
             <div class="lg:col-6">
               <label class="mb-2 block" for="name">Name <span class="text-red-600">*</span></label>
               <input class="form-input w-full" name="name" type="text" required />
