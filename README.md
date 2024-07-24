@@ -12,5 +12,7 @@
 - change the About page
 - add photo to authors
 - write a script using buffer.com to post to twitter, linkedin, facebook, whatsapp, instagram
+- prevent spam for netlify form
+- change contact form submit success page. can be home page
 
 Theme: Bookworm Light Astro
