@@ -3,7 +3,7 @@ title: "Logistics microservices: DevSpace"
 description: "meta description"
 date: 2024-07-21T05:00:00Z
 image: "/images/posts/01.jpg"
-categories: ["kubernetes", "os"]
+categories: ["kubernetes", "microservices"]
 authors: ["Balaji Balasundaram"]
 tags: ["microservices", "logistics", "kubernetes", "k8s", "devspace"]
 draft: false
