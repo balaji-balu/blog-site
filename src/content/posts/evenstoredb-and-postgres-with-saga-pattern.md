@@ -15,6 +15,10 @@ Let's dive into an example of implementing the Saga pattern using EventStoreDB a
 #### Saga Pattern Overview
 The Saga pattern is a way to manage complex, long-running transactions in a microservices architecture. Instead of a single transaction spanning multiple services, a saga is a series of local transactions. Each local transaction updates a service and publishes an event or message. The saga orchestrator (or coordinator) listens for these events and decides what the next step is. If something goes wrong, the saga ensures that compensating transactions are executed to undo the work completed so far.
 
+![Saga Success case](/public/images/posts/saga-success-case.png)[courtesy](https://youtu.be/Y1PqfGGIuRQ)
+
+![Saga Failure case](/public/images/posts/sage-failure-handling.png)[courtesy](https://youtu.be/Y1PqfGGIuRQ)
+
 #### Example Scenario: Order Processing
 Let's consider an order processing system with the following microservices:
 
