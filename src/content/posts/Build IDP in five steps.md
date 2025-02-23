@@ -1,7 +1,7 @@
 ---
 title: "Build IDP in five steps"
 description: "meta description"
-date: 2024-07-13T05:00:00Z
+date: 2025-02-22T05:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["idp", "k8s"]
 authors: ["Balaji Balasundaram"]
