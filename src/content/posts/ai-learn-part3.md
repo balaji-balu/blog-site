@@ -97,86 +97,74 @@ Here's a simple Python example using **Linear Regression** with `scikit-learn` t
 
 Make sure you have `scikit-learn` and `numpy` installed:
 
-bash
-
-CopyEdit
-
-`pip install scikit-learn numpy pandas matplotlib`
+```bash
+pip install scikit-learn numpy pandas matplotlib
+```
 
 ---
 
 ### **2️⃣ Code for Training & Predicting House Prices**
 
-python
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
-CopyEdit
-
-`import numpy as np`
-
-`import pandas as pd`
-
-`import matplotlib.pyplot as plt`
-
-`from sklearn.model_selection import train_test_split`
-
-`from sklearn.linear_model import LinearRegression`
-
-`from sklearn.metrics import mean_absolute_error, mean_squared_error`
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_absolute_error, mean_squared_error
+```
 
 `# 1️⃣ Sample Dataset`
 
-`data = {`
+```python
+data = {
 
-    `"Size": [1000, 2000, 1500, 1800, 2500, 3000, 1200, 2200, 2700],`
+    "Size": [1000, 2000, 1500, 1800, 2500, 3000, 1200, 2200, 2700],
+    "Bedrooms": [2, 3, 3, 4, 4, 5, 2, 4, 5],
+    "Location": [8, 9, 7, 8, 10, 10, 6, 9, 10],  # Assume higher is better
+    "Price": [150000, 250000, 180000, 220000, 300000, 350000, 140000, 280000, 320000]
+}
 
-    `"Bedrooms": [2, 3, 3, 4, 4, 5, 2, 4, 5],`
+df = pd.DataFrame(data)
+```
 
-    `"Location": [8, 9, 7, 8, 10, 10, 6, 9, 10],  # Assume higher is better`
+# 2️⃣ Split Data (80% Training, 20% Testing)`
 
-    `"Price": [150000, 250000, 180000, 220000, 300000, 350000, 140000, 280000, 320000]`
+```python
+X = df[["Size", "Bedrooms", "Location"]]  # Features`
+y = df["Price"]  # Target variable`
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)`
+```
+# 3️⃣ Train the Model`
 
-`}`
+```python
+model = LinearRegression()
+model.fit(X_train, y_train)
+```
 
-`df = pd.DataFrame(data)`
+# 4️⃣ Make Predictions`
 
-`# 2️⃣ Split Data (80% Training, 20% Testing)`
+```python
+y_pred = model.predict(X_test)
+```
 
-`X = df[["Size", "Bedrooms", "Location"]]  # Features`
+# 5️⃣ Evaluate the Model`
+```python
+print("Mean Absolute Error:", mean_absolute_error(y_test, y_pred))
+print("Mean Squared Error:", mean_squared_error(y_test, y_pred))
+```
 
-`y = df["Price"]  # Target variable`
+# 6️⃣ Display Results`
 
-`X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)`
-
-`# 3️⃣ Train the Model`
-
-`model = LinearRegression()`
-
-`model.fit(X_train, y_train)`
-
-`# 4️⃣ Make Predictions`
-
-`y_pred = model.predict(X_test)`
-
-`# 5️⃣ Evaluate the Model`
-
-`print("Mean Absolute Error:", mean_absolute_error(y_test, y_pred))`
-
-`print("Mean Squared Error:", mean_squared_error(y_test, y_pred))`
-
-`# 6️⃣ Display Results`
-
-`plt.scatter(X_test["Size"], y_test, color="blue", label="Actual Prices")`
-
-`plt.scatter(X_test["Size"], y_pred, color="red", label="Predicted Prices")`
-
-`plt.xlabel("Size (sq. ft.)")`
-
-`plt.ylabel("Price ($)")`
-
-`plt.legend()`
-
-`plt.show()`
-
+```python
+plt.scatter(X_test["Size"], y_test, color="blue", label="Actual Prices")
+plt.scatter(X_test["Size"], y_pred, color="red", label="Predicted Prices")
+plt.xlabel("Size (sq. ft.)")
+plt.ylabel("Price ($)")
+plt.legend()`
+plt.show()
+```
 ---
 
 ### **🔍 How it Works**
@@ -192,10 +180,9 @@ CopyEdit
 
 ### **📌 Sample Output**
 
-mathematica
-
-`Mean Absolute Error: 12000.50`
-
-`Mean Squared Error: 250000000`
+```mathematica
+Mean Absolute Error: 12000.50
+Mean Squared Error: 250000000
+```
 
 A scatter plot will show how well predictions match actual prices.
