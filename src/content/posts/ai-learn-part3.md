@@ -45,7 +45,8 @@ This is our **training data**.
 
 We use a **Linear Regression** model, which tries to find a mathematical equation:
 
-Price=(W1×Size)+(W2×Bedrooms)+(W3×Location)+bPrice \= (W\_1 \\times Size) \+ (W\_2 \\times Bedrooms) \+ (W\_3 \\times Location) \+ bPrice=(W1​×Size)+(W2​×Bedrooms)+(W3​×Location)+b
+*Price=(W1×Size)+(W2×Bedrooms)+(W3×Location)+b*
+
 
 where **W1, W2, W3** are weights the AI learns, and **b** is a bias term.
 
