@@ -10,7 +10,7 @@ draft: false
 ---
 ## Daily Sādhanā (Spiritual Practice)
 
-### 1. Antarśuddhi (Inner Purity) & Sākṣī Bhāva (Witness Consciousness)
+##### 1. Antarśuddhi (Inner Purity) & Sākṣī Bhāva (Witness Consciousness)
 
 - True integrity means observing the mind without judgment. The mind is always active, but through awareness, it can be mastered.
 
