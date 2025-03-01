@@ -18,7 +18,7 @@ draft: false
 
 - Remain uninterested in the content of thoughts. Simply witness whatever arises with full attention, without labeling it as good or bad. This detachment is the foundation of inner stability.
 
-### 2. Anātma Viveka (Discrimination of the Non-Self)
+##### 2. Anātma Viveka (Discrimination of the Non-Self)
 
 - Do not claim ownership over thoughts. The mind (Manas) is conditioned by Saṃskāras (past impressions) and collective memory. The true Self (Ātman) is beyond this conditioning.
 
@@ -26,7 +26,7 @@ draft: false
 
 - The mind is shaped and controlled by collective memory (Karma and Vāsanās). Individual free will is an illusion; true liberation (Mokṣa) comes from transcending conditioning.
 
-### 3. Dhyāna Krama (Stages of Inner Awareness)
+##### 3. Dhyāna Krama (Stages of Inner Awareness)
 
 - If thoughts are loud, follow this inward journey:
 
@@ -42,7 +42,7 @@ draft: false
 
 **Sākṣī Drishti (Witness Awareness)**: If thoughts and emotions subside, stay with the inner body and awareness. Periodically ask, "What is happening now within me?"
 
-### 4. How to Observe the Inner Body (Prāṇa Awareness Step-by-Step)
+##### 4. How to Observe the Inner Body (Prāṇa Awareness Step-by-Step)
 
 - First, sit in stillness with eyes closed. Let the body be relaxed but alert.
 - Bring your awareness to your hands. Feel the subtle energy (Prāṇa)—a tingling, warmth, or gentle vibration.
@@ -53,7 +53,7 @@ draft: false
 - If no emotions or thoughts arise, remain in this pure presence.
 - Occasionally ask, "What is happening now in me?" to remain aware.
 
-### 5. Ātma Vichāra (Self-Inquiry – Going Beyond Observation)
+##### 5. Ātma Vichāra (Self-Inquiry – Going Beyond Observation)
 
 - Once the mind is quiet, shift from witnessing to inquiring.
 - Ask "Who am I?" or "What am I?"
