@@ -3,9 +3,9 @@ title: "Spiritual Daily Practice"
 description: "meta description"
 date: 2024-07-14T05:00:00Z
 image: "/images/posts/01.jpg"
-categories: ["spiritality"]
+categories: ["spirituality"]
 authors: ["Balaji Balasundaram"]
-tags: ["spiritality"]
+tags: ["spirituality"]
 draft: false
 ---
 ## Daily Sādhanā (Spiritual Practice)
