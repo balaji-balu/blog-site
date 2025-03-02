@@ -1,5 +1,5 @@
 ---
-title: "Spiritual Daily Practice"
+title: "Understanding Maya, Vasanas, Ahamkara"
 description: "meta description"
 date: 2025-03-02T05:00:00Z
 image: "/images/posts/01.jpg"
@@ -11,12 +11,12 @@ draft: false
 
 #### Understanding Maya, Vasanas, Ego (Ahamkara), and the Three Obstacles to Self-Realization
 
-###### Introduction
+##### Introduction
 In Vedantic philosophy, the journey toward self-realization involves understanding the interplay of Maya (illusion), Vasanas (latent impressions), and the internal faculties of the mind: Ahamkara (Ego), Buddhi (Intellect), Manas (Mind), and Chitta (Memory). However, this path is obstructed by three primary obstacles: **Mala (Impurity), Vikshepa (Restlessness), and Avarana (Veil of Ignorance)**. This article explores these relationships and how they influence our perception of the self.
 
 ---
 
-###### The Nature of Maya (Illusion)
+##### The Nature of Maya (Illusion)
 Maya is the cosmic illusion that veils the true nature of reality and makes us identify with the transient world. It manifests in two forms:
 1. **Avarana (Veiling Power)** – Conceals the truth of the Self (Atman).
 2. **Vikshepa (Projecting Power)** – Creates distractions and false perceptions, leading to suffering.
@@ -25,12 +25,12 @@ Under the influence of Maya, individuals falsely identify with their body and mi
 
 ---
 
-###### The Role of Vasanas (Latent Impressions)
+##### The Role of Vasanas (Latent Impressions)
 Vasanas are subtle mental impressions formed by past experiences and karma. They shape our desires, tendencies, and habitual actions, reinforcing the cycle of birth and rebirth. Vasanas directly influence **Ahamkara (Ego)** and keep one bound to worldly attachments.
 
 ---
 
-###### The Four Internal Faculties (Antahkarana)
+##### The Four Internal Faculties (Antahkarana)
 The mind is composed of four internal faculties, which function together to shape perception and decision-making:
 1. **Ahamkara (Ego, the "I-Maker")** – Creates a sense of individual identity and separateness from the whole.
 2. **Buddhi (Intellect)** – The faculty of discrimination and reasoning.
@@ -41,7 +41,7 @@ These faculties interact dynamically, with **Ahamkara** taking ownership of expe
 
 ---
 
-###### The Three Obstacles to Self-Realization
+##### The Three Obstacles to Self-Realization
 Three fundamental obstacles prevent an individual from transcending Maya and realizing the true Self:
 
  1. **Mala (Impurity)**
@@ -61,7 +61,7 @@ Three fundamental obstacles prevent an individual from transcending Maya and rea
 
 ---
 
-###### The Interconnected System
+##### The Interconnected System
 The relationship between these concepts can be visualized as follows:
 
 ```
@@ -95,7 +95,7 @@ Each component is **interdependent**, and self-realization requires systematical
 
 ---
 
-###### Path to Self-Realization
+##### Path to Self-Realization
 To transcend Maya and realize the Atman, one must integrate the following practices:
 1. **Karma Yoga (Selfless Service)** – Purifies the mind and removes Mala.
 2. **Dhyana Yoga (Meditation)** – Calms the mind and eliminates Vikshepa.
@@ -106,7 +106,7 @@ By systematically applying these disciplines, the veil of Maya is lifted, and on
 
 ---
 
-###### Conclusion
+##### Conclusion
 The journey to self-realization requires understanding the intricate interplay of **Maya, Vasanas, Ahamkara, Buddhi, Manas, and Chitta** while overcoming **Mala, Vikshepa, and Avarana**. Through dedicated practice in **Karma Yoga, Dhyana Yoga, Jnana Yoga, and Bhakti Yoga**, one gradually transcends illusion and attains the knowledge of the true Self.
 
 By dismantling the false identification with the mind and body, one realizes that the **Atman (Self) is pure, infinite, and ever-free** beyond the limitations imposed by Maya.
