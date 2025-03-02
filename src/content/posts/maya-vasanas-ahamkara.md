@@ -14,8 +14,6 @@ draft: false
 ##### Introduction
 In Vedantic philosophy, the journey toward self-realization involves understanding the interplay of Maya (illusion), Vasanas (latent impressions), and the internal faculties of the mind: Ahamkara (Ego), Buddhi (Intellect), Manas (Mind), and Chitta (Memory). However, this path is obstructed by three primary obstacles: **Mala (Impurity), Vikshepa (Restlessness), and Avarana (Veil of Ignorance)**. This article explores these relationships and how they influence our perception of the self.
 
----
-
 ##### The Nature of Maya (Illusion)
 Maya is the cosmic illusion that veils the true nature of reality and makes us identify with the transient world. It manifests in two forms:
 1. **Avarana (Veiling Power)** – Conceals the truth of the Self (Atman).
