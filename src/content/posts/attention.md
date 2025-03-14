@@ -1,5 +1,5 @@
 ---
-title: "Spiritual Daily Practice"
+title: "The Power of Attention: The Path to Peace or Suffering"
 description: "meta description"
 date: 2025-03-14T05:00:00Z
 image: "/images/posts/01.jpg"
