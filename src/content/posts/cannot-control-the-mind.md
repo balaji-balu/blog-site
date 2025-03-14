@@ -1,7 +1,7 @@
 ---
 title: "You cannot control the mind"
 description: "meta description"
-date: 2024-07-14T05:00:00Z
+date: 2025-03-14T05:00:00Z
 image: "/images/posts/01.jpg"
 categories: ["spirituality"]
 authors: ["Balaji Balasundaram"]
