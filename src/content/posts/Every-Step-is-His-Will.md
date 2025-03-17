@@ -2,7 +2,7 @@
 title: "The Divine Journey to Tirumala: When Every Step is His Will"
 description: "meta description"
 date: 2025-03-17T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/2261b052-838c-4fce-a544-f3c75703a940.webp"
 categories: ["spirituality"]
 authors: ["Balaji Balasundaram"]
 tags: ["spirituality"]
