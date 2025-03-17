@@ -1,13 +1,4 @@
 ---
-title: "The Divine Journey to Tirumala: When Every Step is His Will"
-description: "meta description"
-date: 2025-03-17T05:00:00Z
-image: "/images/posts/tirumala-pilgrimage-path.webp"
-categories: ["spirituality"]
-authors: ["Balaji Balasundaram"]
-tags: ["spirituality"]
-draft: false
-
 title: "Every Step is His Will: The Divine Journey to Tirumala"
 description: "Discover the spiritual significance of the divine journey to Tirumala. Every step taken is an act of devotion, guided by divine will."
 date: 2025-03-17T05:00:00Z
